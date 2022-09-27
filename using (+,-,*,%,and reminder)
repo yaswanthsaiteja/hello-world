@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{ 
+  int a=2233,b=42424;
+  printf("sum of a,b values%d\n",a+b);
+  printf("sub of a,b values%d\n",a-b);
+  printf("mul of a,b values%d\n",a*b);
+  printf("div of a,b values%d\n",a%b);
+  printf("remainder of a,b values%d\n",a/b);
+  return 0;
+  }
